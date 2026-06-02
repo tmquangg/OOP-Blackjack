@@ -10,11 +10,9 @@
 
 ## Yêu cầu
 
-* Visual Studio 2022
+* Visual Studio
 * SDL3
 * SDL3_image
-* SDL3_ttf
-* SDL3_mixer
 
 ## Cách chạy file
 
