@@ -1,0 +1,57 @@
+﻿  Blackjack.cpp
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(43,13): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(43,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(44,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(44,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(45,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(45,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(46,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(46,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(138,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(139,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(141,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(142,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(153,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(164,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(202,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(210,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(209,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(218,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(217,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(233,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(232,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(242,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(241,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(295,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(294,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(303,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(302,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(311,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(310,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(320,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(319,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(329,37): warning C4244: 'initializing': conversion from 'Uint64' to 'Uint32', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(357,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(356,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(365,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(364,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(374,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(373,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(383,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(382,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(405,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(406,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(411,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(410,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(495,32): warning C4244: 'initializing': conversion from 'Uint64' to 'Uint32', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(500,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(501,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(506,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(505,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(570,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(571,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(572,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(589,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(591,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admn\source\repos\Blackjack\Blackjack\Blackjack.cpp(613,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Blackjack.vcxproj -> C:\Users\Admn\source\repos\Blackjack\x64\Debug\Blackjack.exe
