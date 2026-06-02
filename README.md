@@ -21,3 +21,7 @@
 1. Mở Blackjack.sln
 2. Build Solution
 3. Chạy
+
+## Ko có SDL trên máy
+
+Có 1 file thuần code riêng để chạy game blackjack trên console
